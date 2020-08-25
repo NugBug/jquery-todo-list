@@ -1,3 +1,7 @@
+body {
+  background: rgb(216, 216, 216);
+}
+
 .todo-task {
   color: red;
   cursor: pointer;
